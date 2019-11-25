@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-from collections import defaultdict
-
 def part1(inp):
     return sumAcrossPackagesFile(inp, calcArea)
 
